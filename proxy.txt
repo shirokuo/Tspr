@@ -1,2 +1,3 @@
 203.194.112.119,2053,ID,Rumahweb
 138.2.77.179,30018,SG,Oracle+Cloud
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
